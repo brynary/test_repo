@@ -4,5 +4,29 @@ class Foo
     two
     three
     four
+    one
+    two
+    three
+    four
+    one
+    two
+    three
+    four
+    one
+    two
+    three
+    four
+    one
+    two
+    three
+    four
+    one
+    two
+    three
+    four
+    one
+    two
+    three
+    four
   end
 end
